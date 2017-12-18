@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest> 	
+  <!-- Device Tree -->
+  <project path="device/lge/ph2n" name="messi2050/android_device_lge_ph2n" revision="cm-14.1" />
+  <project path="vendor/lge/ph2n" name="messi2050/android_vendor_lge_ph2n" revision="cm-14.1" />
+  <project path="kernel/lge/msm8937" name="messi2050/android_kernel_lge_msm8937" revision="cm-14.1" />
+
+  <!-- LineageOS 
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="cm-14.1"/>
+  <project path="packages/apps/FlipFlap" name="LineageOS/android_packages_apps_FlipFlap" revision="cm-14.1"/>
+  <project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-14.1"/> -->
+  
+  <!-- qcom/common device tree for dtbtool -->
+  <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1" /> 
+
+</manifest>
+
