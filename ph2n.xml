@@ -12,5 +12,10 @@
   <!-- qcom/common device tree for dtbtool -->
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1" /> 
 
+    <!-- nfc -->
+  <project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" revision="cm-14.1"/>
+  <project path="vendor/nxp-nfc/opensource/libnfc-nci" name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" revision="cm-14.1"/>
+  <project path="vendor/nxp-nfc/opensource/Nfc" name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" revision="cm-14.1"/>
+
 </manifest>
 
