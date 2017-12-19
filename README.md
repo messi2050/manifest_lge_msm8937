@@ -12,7 +12,7 @@ After you made the directory, go ahead and initialize the LineageOS repository i
 >repo init -u git://github.com/LineageOS/android.git -b cm-14.1
 
 Now, once you have done that, you will need to download the manifest from this repository:
->curl --create-dirs -L -o .repo/local_manifests/ph2n -O -L https://raw.githubusercontent.com/messi2050/manifest_lge_ph2n/cm-14.1/ph2n.xml
+>curl --create-dirs -L -o .repo/local_manifests/ph2n.xml -O -L https://raw.githubusercontent.com/messi2050/manifest_lge_ph2n/cm-14.1/ph2n.xml
 
 Finally, start the sync process:
 >repo sync
