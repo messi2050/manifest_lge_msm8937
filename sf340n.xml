@@ -2,8 +2,8 @@
 <manifest> 	
   <!-- Device Tree -->
   <project path="device/lge/msm8937-common" name="messi2050/android_device_lge_msm8937-common" revision="cm-14.1" />
-  <project path="device/lge/ph2n" name="messi2050/android_device_lge_ph2n" revision="cm-14.1" />
-  <project path="vendor/lge/ph2n" name="messi2050/android_vendor_lge_ph2n" revision="cm-14.1" />
+  <project path="device/lge/sf340n" name="messi2050/android_device_lge_sf340n" revision="cm-14.1" />
+  <project path="vendor/lge/sf340n" name="messi2050/android_vendor_lge_sf340n" revision="cm-14.1" />
 
   <!-- LineageOS -->
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="cm-14.1"/>
