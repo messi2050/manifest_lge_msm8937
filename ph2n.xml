@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest> 	
   <!-- Device Tree -->
-  <project path="device/lge/msm8937-common" name="messi2050/android_device_lge_msm8937-common" revision="cm-14.1" />
-  <project path="device/lge/ph2n" name="messi2050/android_device_lge_ph2n" revision="cm-14.1" />
-  <project path="vendor/lge/ph2n" name="messi2050/android_vendor_lge_ph2n" revision="cm-14.1" />
-  <project path="kernel/lge/msm8937" name="messi2050/android_kernel_lge_msm8937" revision="cm-14.1" />
+  <project path="device/lge/msm8937-common" name="messi2050/android_device_lge_msm8937-common" revision="cm-14.1-64" />
+  <project path="device/lge/ph2n" name="messi2050/android_device_lge_ph2n" revision="cm-14.1-64" />
+  <project path="vendor/lge/ph2n" name="messi2050/android_vendor_lge_ph2n" revision="cm-14.1-64" />
+  <project path="kernel/lge/msm8937" name="messi2050/android_kernel_lge_msm8937" revision="cm-14.1-64" />
 
   <!-- LineageOS -->
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="cm-14.1"/>
